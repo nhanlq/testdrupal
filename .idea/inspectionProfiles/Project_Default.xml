@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CODING_STANDARD" value="Custom" />
+      <option name="CUSTOM_RULESET_PATH" value="$PROJECT_DIR$/../../magento/actions-m2-coding-standards/phpcs.xml" />
+      <option name="USE_INSTALLED_PATHS" value="true" />
+      <option name="INSTALLED_PATHS" value="$PROJECT_DIR$/../../magento/actions-m2-coding-standards,/usr/local/var/www/magento/actions-m2-coding-standards/7.4.24/vendor/slevomat/coding-standard" />
+      <option name="EXTENSIONS" value="php" />
+    </inspection_tool>
+  </profile>
+</component>
